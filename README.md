@@ -1,4 +1,4 @@
-# You will fins the Supplementary data of the paper X
+# Supplementary data of the paper X
 
 This includes : 
 
